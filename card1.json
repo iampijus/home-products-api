@@ -1,23 +1,27 @@
 [
   {
+    "id":"1",
     "title":"REDMI K50i",
     "image": "https://www.digitaltrends.com/wp-content/uploads/2022/12/Realme-10-Pro-Plus-Back-Standing.jpg?fit=3000%2C2000&p=1",
     "company":"redmi",
     "description":"Experience the power of MediaTek Helio G99 processor."
   },
   {
+    "id":"2",
     "title":"vivo T2x 5G",
     "image": "https://images.hindustantimes.com/tech/img/2022/08/26/1600x900/1_1661487502349_1661487533313_1661487533313.jpg",
     "company":"vivo",
     "description":"The Vivo V27 5G smartphone features a wide 3D curved display."
   },
   {
+    "id":"3",
     "title":"SAMSUNG Galaxy F13",
     "image": "https://www.zdnet.com/a/img/resize/810d0236cdc2de0c2b31a6de523ccb4199791233/2023/02/09/02d1a507-cea7-4651-9a91-80ece88a0eec/samsung-galaxy-s23-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "company":"samsung",
     "description":"With the stunning features of the Samsung Galaxy F04 smartphone.",
   },
   {
+    "id":"4",
     "title":"APPLE iPhone 14 Plus",
     "image":"https://images.moneycontrol.com/static-mcnews/2021/10/Web_Photo_Editor-10.jpg?impolicy=website&width=770&height=431",
     "company":"apple",
