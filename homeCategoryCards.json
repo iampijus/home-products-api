@@ -1,1 +1,34 @@
-
+[
+  {
+    "id": "24",
+    "title":"REDMI K50i",
+    "image": "https://www.digitaltrends.com/wp-content/uploads/2022/12/Realme-10-Pro-Plus-Back-Standing.jpg?fit=3000%2C2000&p=1",
+    "category": "redmi",
+    "description": "Phone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension.",
+    "price": 88999
+  },
+  {
+    "id": "25",
+    "title": "REDMI 11 Prime ",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/p/g/k/-original-imageyuud3bey9hh.jpeg?q=70",
+    "category": "redmi",
+    "description": "Experience the power of MediaTek Helio G99 processor to seamlessly switch between the apps and multitask easily on the Redmi Prime 11 smartphone. You can enjoy a smooth and fast display, thanks to its 90 Hz FHD+ display.",
+    "price": 10799
+  },
+  {
+    "id": "26",
+    "title": "REDMI K50i 5G ",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/s/g/-original-imagq35cvc36ahur.jpeg?q=70",
+    "category": "redmi",
+    "description": "The MediaTek Dimensity 8100 processor on the Redmi K50i. The LiquidCool 2.0 vapour chamber technology ensures that your device stays cool even during hideous multitasking or intense gaming sessions. The wide 16.76 cm (6.6) Liquid FFS display of this phone enables you with immersive visuals.",
+    "price": 20499
+  },
+  {
+    "id": "27",
+    "title": "REDMI 11 Prime ",
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70",
+    "category": "redmi",
+    "description": "Experience the power of MediaTek Helio G99 processor to seamlessly switch between the apps and multitask easily on the Redmi Prime 11 smartphone. You can enjoy a smooth and fast display, thanks to its 90 Hz FHD+ display.",
+    "price": 10899
+  }
+]
