@@ -1,22 +1,25 @@
 [
   {
+    "id": "24",
     "title": "SAMSUNG Galaxy M04",
-    "image":
-      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/02/Samsung-Galaxy-S23-Ultra-hands-on-10.jpg",
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/02/Samsung-Galaxy-S23-Ultra-hands-on-10.jpg",
+    "category": "apple",
     "description": "Experience the power of MediaTek Helio G99 processor.",
   },
   {
+    "id": "25",
     "title": "APPLE iPhone 13",
-    "image":
-      "https://sony.scene7.com/is/image/sonyglobalsolutions/1148_Category_8Span?$newprdLImg$&fmt=png-alpha",
-    "description":
-      "The Vivo V27 5G smartphone features a wide 3D curved display.",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/1148_Category_8Span?$newprdLImg$&fmt=png-alpha",
+    "category": "redmi",
+    "description": "The Vivo V27 5G smartphone features a wide 3D curved display.",
+    "price": 10799
   },
   {
-    "title": "realme Narzo 50i Prime",
-    "image":
-      "https://images.samsung.com/is/image/samsung/assets/ae/2302/pcd/smartphones/PCD_DM3_KV_Main-KV_1440x640_pc_Preivew.jpg?imwidth=1366",
-    "description":
-      "With the stunning features of the Samsung Galaxy F04 smartphone.",
+    "id": "26",
+   "title": "realme Narzo 50i Prime",
+    "image": "https://images.samsung.com/is/image/samsung/assets/ae/2302/pcd/smartphones/PCD_DM3_KV_Main-KV_1440x640_pc_Preivew.jpg?imwidth=1366",
+    "category": "redmi",
+    "description": "With the stunning features of the Samsung Galaxy F04 smartphone.",
+    "price": 20499
   }
 ]
